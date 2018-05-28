@@ -1,0 +1,24 @@
+.top-actions {
+	margin-top: 20px;
+}
+
+.logo {
+	ffont-weight: bolder;
+	color: blue;
+}
+
+.sub-nav {
+	background-color: #25A9EE;
+	padding: 0.5em 0;
+}
+.sub-nav dd a {
+	color: white;
+}
+
+.fullWidth {
+   width: 100%;
+   margin: 0 auto;  
+}
+
+
+

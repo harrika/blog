@@ -1,0 +1,18 @@
+must reads
+---------------------------------------------------------
+build a site like this
+https://www.getabstract.com/en/summary/concepts-and-rends/superintelligence/24023
+
+
+artifical intelligence
+------------------------------------------------------------------
+must read - road to super intelligence
+https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+
+welsh learning
+intro to deep learning
+https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+
+data school course
+http://www.dataschool.io/machine-learning-with-scikit-learn/
+

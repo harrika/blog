@@ -1,0 +1,22 @@
+.banner	{
+	background-image: linear-gradient(rgba(150,190,197,0.3), rgba(150,190,197,0.4)), url(../img/jja.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 70px 0px;
+	color: white;
+}
+
+.container {
+	width: 900px;
+	margin: 0 auto;	
+}
+
+@media(max-width: 992px) {
+	.container { width: 700px; }
+}
+@media(max-width: 768px) {
+	.container { width: 500px; }
+}
+@media(max-width: 480px) {
+	.container { width: 350px; }
+}
