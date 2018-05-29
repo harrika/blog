@@ -19,6 +19,20 @@
    width: 100%;
    margin: 0 auto;  
 }
-
+.box1 {
+	background-color: #25A9EE;	
+	color: #fff;
+	display: inline-block;
+	padding: 0 0.3em;
+}
+.muted {
+	color: #999;
+}
+.muted888 {
+	color: #988;
+}
+p {	
+	margin-bottom: 0.3rem;
+}
 
 
